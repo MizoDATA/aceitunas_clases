@@ -19,6 +19,7 @@ public class Main {
                         // Vender
                         // Pedir tipo
                         tipoAceituna = Funciones.pedirTipoAceituna();
+                        JOptionPane.showMessageDialog(null, "El tipo de aceituna es : "+ tipoAceituna);
                         // Pedir tamaño
                         // Pedir kg
                         // calcular
