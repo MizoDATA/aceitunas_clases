@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Funciones {
 
+    // atributos
     public static final String ALORENA = "aloreña";
     public static final String PICUAL = "picual";
     public static final String HOJIBLANCA = "hojiblanca";
